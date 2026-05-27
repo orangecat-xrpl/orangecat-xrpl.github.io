@@ -1,0 +1,8 @@
+[[ACCOUNTS]]
+address = "rGCtayZogyWdKj8GAUgGSURd2ThfcyBQhP"
+network = "main"
+
+[[CURRENCIES]]
+code = "1CELL"
+issuer = "rGCtayZogyWdKj8GAUgGSURd2ThfcyBQhP"
+network = "main"
